@@ -19,9 +19,11 @@ Let's check out what we got from the algorithm!
 
 ## More Complexity
 ![image](VeryFunny.png "Very Funny, admins.")
+
 It appears to be the Australian Anthem, repeated many times. However, when we copy one paragrah and search for it, it doesn't match the next paragraph despite having the same text.
 
 The answer? **Hidden spaces**. But what could this yield?
+
 ![image](Whitespace.png "Suspicious.")
 
 ## Out of Space
