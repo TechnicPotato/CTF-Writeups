@@ -29,9 +29,6 @@ The answer? **Hidden spaces**. But what could this yield?
 ## Out of Space
 Initial searching yielded SNOW algorithms for hiding messages in whitespace. However, this is a red herring, as when we perform our own testing using SNOW, we get many spaces where this only yields one.
 
-So what could it be?
-
-## The answer, finally
 See above, where we highlighted some whitespace on the end of certain lines. Perhaps, this could be binary code?
 
 Let's test. We know a flag starts with D, and this is `01000100` in binary. This means that we need a 1 in the 2nd and 6th line, which just happen to match our 2nd and 6th line exactly!
