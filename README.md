@@ -4,3 +4,6 @@ Inside each folder contains a basic briefing of the CTF, and a writeup of each c
 
 ## CTF's Included:
 * DUCTF2020
+
+## How to Read:
+Simply **open** any of the `.md` files in GitHub.
