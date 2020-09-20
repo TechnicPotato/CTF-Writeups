@@ -23,7 +23,7 @@ Various items:
 * Distancing and waypoints on Google Maps as a searching radius recogniser
 
 ## Completed Challenges and General Thoughts
-* ***Forensics*** was the area I found the easiest, and thus stuck to these challenges for most of the CTF.
+* ***Forensics***
 * **On the Spectrum**: See `OnTheSpectrum.md`.
 * **Spot the Difference**: See `SpotTheDifference.md`.
 * **I Love Scomo**: See `ILoveScomo.md`.
